@@ -80,12 +80,12 @@ Level 4 → Level 5
 
     Objective: The password is in the only human-readable file in the inhere directory.
 
-    Command(s):
+    Command(s): 
     Bash
+    cd inhere
+    file ./*
+    cat./-file07
 
-cd inhere
-file ./*
-cat ./-file07
 
 Explanation:
 
