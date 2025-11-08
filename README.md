@@ -4,9 +4,9 @@ Welcome to my portfolio! This repository serves as a live documentary of my jour
 
 I am currently pursuing my Certified Ethical Hacker (CEH v13) certification and hold a B.Sc. in Computer Science. My goal is to apply this knowledge to a practical, full-time role in the cybersecurity industry.
 
-    LinkedIn: [Your LinkedIn URL Here]
+    LinkedIn: https://www.linkedin.com/in/cyber-redsky/
 
-    Email: [Your Professional Email Here]
+    Email: ag4671096@gmail.com
 
     Location: Delhi NCR, India
 
@@ -60,9 +60,9 @@ Custom scripts to automate common cybersecurity tasks.
 
 My Technical Skillset
 
-Category,Tools & Technologies
-Tools,"Burp Suite, Nmap, Metasploit, Wireshark, John the Ripper, Hashcat"
-OS,"Kali Linux, Windows, Ubuntu Server"
-Languages,"Python, Bash, SQL, JavaScript"
-Concepts,"OWASP Top 10, Network Reconnaissance, Privilege Escalation, SQL Injection, XSS, Cryptography"
-Certifications,"CEH v13 (In Progress, expected Apr 2026), B.Sc. Computer Science (Completed)"
+Category	    Tools & Technologies
+Tools	        Burp Suite, Nmap, Metasploit, Wireshark, John the Ripper, Hashcat
+OS	            Kali Linux, Windows, Ubuntu Server
+Languages	    Python, Bash, SQL, JavaScript
+Concepts	    OWASP Top 10, Network Reconnaissance, Privilege Escalation, SQL Injection, XSS, Cryptography
+Certifications	CEH v13 (In Progress, expected Apr 2026), B.Sc. Computer Science (Completed)
