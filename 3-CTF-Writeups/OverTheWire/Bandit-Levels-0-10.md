@@ -86,8 +86,7 @@ Level 4 → Level 5
     file ./*
     cat./-file07
 
-
-Explanation:
+    Explanation:
 
     file ./*: Runs the file command on all files in the directory. This command tells you the type of each file.
 
