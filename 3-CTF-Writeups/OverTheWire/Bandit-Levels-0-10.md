@@ -22,7 +22,7 @@ Level 0 → Level 1
 
         cat readme: Reads the content of the readme file and prints it to the screen.
 
-    Password: [PASTE THE PASSWORD FOR LEVEL 1 HERE]
+    ```Password: ```
 
 Level 1 → Level 2
 
@@ -37,7 +37,7 @@ Level 1 → Level 2
 
     Explanation: The cat command normally thinks - means "read from standard input." Using ./ tells the shell to look for a file named - in the current directory (.).
 
-    Password: [PASTE THE PASSWORD FOR LEVEL 2 HERE]
+    ```Password: ```
 
 Level 2 → Level 3
 
@@ -53,7 +53,7 @@ Level 2 → Level 3
 
     Explanation: To handle filenames with spaces, you must either wrap the entire filename in quotes (") or "escape" each space with a backslash (\).
 
-    Password: [PASTE THE PASSWORD FOR LEVEL 3 HERE]
+   ```Password: ```
 
 Level 3 → Level 4
 
@@ -74,8 +74,8 @@ Level 3 → Level 4
 
         cat .hidden: Reads the content of the .hidden file.
 
-    Password: [PASTE THE PASSWORD FOR LEVEL 4 HERE]
-
+    ```Password: ```
+    
 Level 4 → Level 5
 
     Objective: The password is in the only human-readable file in the inhere directory.
