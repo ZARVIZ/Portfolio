@@ -94,5 +94,5 @@ Level 4 → Level 5
 
     cat ./-file07: Reads the content of the identified ASCII file.
 
-'''Password: '''
+```Password: ```
 
